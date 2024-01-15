@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LoadingBarStyle" parent="android:Widget.ProgressBar.Horizontal">
+        <item name="android:indeterminateTint">@color/colorPrimaryLight</item>
+        <item name="android:indeterminateDrawable">@drawable/loading_bar</item>
+        <item name="android:minHeight">8dp</item>
+        <item name="android:maxHeight">8dp</item>
+    </style>
+</resources>

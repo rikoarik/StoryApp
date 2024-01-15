@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna untuk tema gelap (dark) -->
+    <color name="colorPrimaryDark">#4D4B8C</color>
+    <color name="colorPrimaryDarkVariant">#373566</color>
+    <color name="colorOnPrimaryDark">#FFFFFF</color>
+    <color name="colorSecondaryDark">#E91E63</color>
+    <color name="colorSecondaryDarkVariant">#B0003A</color>
+    <color name="colorOnSecondaryDark">#000000</color>
+    <color name="colorBackgroundDark">#121212</color>
+
+    <!-- Warna untuk tema terang (light) -->
+    <color name="colorPrimaryLight">#3F51B5</color>
+    <color name="colorPrimaryLightVariant">#303F9F</color>
+    <color name="colorOnPrimaryLight">#FFFFFF</color>
+    <color name="colorSecondaryLight">#E91E63</color>
+    <color name="colorSecondaryLightVariant">#B0003A</color>
+    <color name="colorOnSecondaryLight">#000000</color>
+    <color name="colorBackgroundLight">#FFFFFF</color>
+
+    <!-- Tambahkan warna yang lain di sini jika diperlukan -->
+</resources>
+
